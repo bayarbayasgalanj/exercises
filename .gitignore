@@ -24,6 +24,8 @@ _site/
 activemq-data
 bin
 build
+.bin
+.build
 !/**/src/**/bin
 !/**/src/**/build
 build.log
