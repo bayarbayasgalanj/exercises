@@ -1,0 +1,4 @@
+CREATE TABLE cash_card (
+    id SERIAL PRIMARY KEY,
+    amount DOUBLE PRECISION
+);
