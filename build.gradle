@@ -39,7 +39,7 @@ test {
         showCauses true
         showStackTraces true
 
-        // Change to `true` for more verbose test output
-        showStandardStreams = false
+        // Change from false to true
+        showStandardStreams = true
     }
 }
